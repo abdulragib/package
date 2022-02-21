@@ -3,7 +3,7 @@ library package;
 import 'package:flutter/material.dart';
 
 class CustomAlertBox {
-  /// Bu şekilde döküman yorumları oluşturabilirsiniz kullanan kişiler için faydalı olur.
+
   static Future showCustomAlertBox({
     required BuildContext context,
     required Widget willDisplayWidget,
